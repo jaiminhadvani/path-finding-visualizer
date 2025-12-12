@@ -21,7 +21,6 @@ A modern, interactive visualization tool for pathfinding algorithms featuring a 
 - **Glassmorphic Panels** - Modern frosted glass effect with backdrop blur
 - **Glowing Effects** - Beautiful glow animations on cells
 - **Smooth Animations** - Satisfying visual feedback for all interactions
-- **Sticky Grid** - Grid stays in view while scrolling controls
 
 ## 🚀 Quick Start
 
@@ -77,8 +76,6 @@ path-finding-visualizer/
   - Start: Green with pulsing glow
   - End: Red with pulsing glow
   - Wall: Glowing white
-  - Visited: Purple with rotation animation
-  - Frontier: Blue with color shift
   - Path: Golden with explosive entrance
 
 ### Typography
